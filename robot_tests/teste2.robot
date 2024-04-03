@@ -4,13 +4,13 @@ Library  SeleniumLibrary
 *** Variables ***
 ${SITE_URL}  https://automationpratice.com.br/
 ${SITE_ERRADO}  https://automationpr
-${SITE_URL_HERBERT}  https://www.google.com/
+${SITE_URL_Lucas}  https://www.google.com/
 ${USUARIO_EMAIL}  qazando@gmail.com
 ${USUARIO_SENHA}  123456
 
 *** Keywords ***
-Abrir Site Herbert
-    Open Browser  ${SITE_URL_HERBERT}  chrome
+Abrir Site Lucas
+    Open Browser  ${SITE_URL_Lucas}  chrome
 
 Abrir Site
     Open Browser  ${SITE_URL}  chrome
