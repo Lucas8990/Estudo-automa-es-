@@ -1,6 +1,4 @@
-## Projeto de Testes da QAZANDO
-
-- https://www.qazando.com.br/
+## Projeto de Testes
 
 ## Comando para rodar os testes
 
